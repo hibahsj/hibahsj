@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hibahsj
-- 👀 I’m interested in R, Python, bilogical data science 
+- 👀 I’m interested in R, Python, biological data science 
 - 🌱 I’m currently learning R 
 - 💞️ I’m looking to collaborate on anything 
 
